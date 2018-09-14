@@ -27,7 +27,6 @@
 <script>
 
 import Vue from 'vue'
-import ContactList from '@/components/ContactList';
 
 export default {
   components: {

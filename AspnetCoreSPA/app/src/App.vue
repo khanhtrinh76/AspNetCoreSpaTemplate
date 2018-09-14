@@ -82,22 +82,9 @@ table tbody tr td{
   border-color: darkcyan;
 }
 
-/* table tbody tr{
-  padding-bottom: 5px;
-  padding-top: 5px;
-} */
-
 table tbody tr td:first-child{
   border: none !important;
 }
-
-/* table tbody tr td{
-  border-left-color: darkcyan !important;
-  border-left-style: solid !important;
-  border-left-width: 1px !important;
-  border-bottom: none !important;
-  border-top: none !important;
-} */
 
 .name
 {
