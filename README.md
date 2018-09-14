@@ -25,6 +25,8 @@ Fire up the AspNetCore app from Visual Studio and browse to `http://locahost:500
 3. Create a pull request to the original repo, on the above same branch
 4. Notify the admin
 
+## Khanh Trinh notes
+
 ### Assumption 
 1. No validation is implemented so the data file, .csv, should in the same format as the provided file.
 2. Server side code is using .Net Core and Web API. Not using dependency injection but the code is ready for applly it.
