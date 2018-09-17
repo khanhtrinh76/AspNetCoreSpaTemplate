@@ -30,7 +30,7 @@ import Vue from 'vue'
 
 export default {
   components: {
-    [ContactList.name]: ContactList,
+    // [ContactList.name]: ContactList,
   },
   data() {
     return {
